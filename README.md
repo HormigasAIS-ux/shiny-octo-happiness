@@ -1,1 +1,1 @@
-. Archivos iniciales o estructura del proyecto con #HormigasAIS [Hormigasais S.A] *Chris Quinonez*. #Acreditación-HormigasAIS-ux
+# Acreditación. Archivos iniciales o estructura del proyecto con #HormigasAIS [Hormigasais S.A] *Chris Quinonez*. #Acreditación-HormigasAIS-ux
